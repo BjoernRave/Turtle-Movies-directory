@@ -1,6 +1,6 @@
 To run this repo, you first need to create a new firebase project and insert the firebaseConfig variables, which you can obtain by registering a web application, to your project.
 
-Add the config data from firebase in `config.js`
+Add the config data from firebase in `config.ts`
 
 Install dependencies:
 
